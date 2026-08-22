@@ -1,14 +1,14 @@
-\# 2019 高教社杯数学建模 A 题完整 MATLAB 实现
+# 2019 高教社杯数学建模 A 题完整 MATLAB 实现
 
 
 
-\- `Src`：Matlab解题代码
+- `Src`：Matlab解题代码
 
-\- `data`：题目附件数据
+- `data`：题目附件数据
 
-\- `question`：题目原文
+- `question`：题目原文
 
-\- `result`：输出结果与图片
+- `result`：输出结果与图片
 
 
 
